@@ -3,7 +3,7 @@
 ### Amazing Drawing App With Particles. 
 Lots Of Colorful Particles
 
-Try the **[demo](https://virkano.github.io/ParticleBrush)**
+Try the **[demo](https://www.virkano.com/ParticleBrush/)**
 
 ![](./assets/screenshot.png)
 
